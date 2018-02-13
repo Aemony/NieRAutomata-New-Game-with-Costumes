@@ -5,7 +5,12 @@ Completely blank save files with only the additional costumes added to them. Bun
 1. Download the appropriate SaveSlot_2.dat and move it to My Documents\My Games\NieR_Automata. Rename it if necessary (Slot 1 -> SaveSlot_0.dat, and so on).
 
    * **Heavy Armor** only includes 2B's Heavy Armor costume that is unlocked in route C. This is for players w/o the DLC.
+   
+     *Note regarding the Heavy Armor:* This armor will be lost after the Prologue section, along with the rest of your items and secondary weapon. It can, however, be recovered when you arrive to the City Ruins by looting the old body at the Abandoned Factory. 
+     
    * **Heavy Armor + DLC Costumes** includes both 2B's Heavy Armor costume as well as the 3 additional costumes that were released in the DLC. This is for players w/ the DLC.
+   
+     *Note regarding the DLC costumes:* These items will be lost after the Prologue section, and won't be recovered along with the other items when you loot the old body at the Abandoned Factory. However if you've equipped the DLC costume during the prologue section then 2B will still have this on her even after the self-destruction.
 
 2. Use the bundled NieRAutomata-SteamID64-Editor to update the SteamID64 stored in the files to your own. For more information about that tool, see https://github.com/Idearum/NieRAutomata-SteamID64-Editor
 
