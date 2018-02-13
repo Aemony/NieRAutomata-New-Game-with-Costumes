@@ -4,8 +4,8 @@ Completely blank save files with only the additional costumes added to them. Bun
 ## Usage
 1. Download the appropriate SaveSlot_2.dat and move it to My Documents\My Games\NieR_Automata. Rename it if necessary (Slot 1 -> SaveSlot_0.dat, and so on).
 
-   * Heavy Armor only includes 2B's Heavy Armor costume that is unlocked in route C. This is for players w/o the DLC.
-   * Heavy Armor + DLC Costumes includes both 2B's Heavy Armor costume as well as the 3 additional costumes that were released in the DLC. This is for players w/ the DLC.
+   * '''Heavy Armor only''' includes 2B's Heavy Armor costume that is unlocked in route C. This is for players w/o the DLC.
+   * '''Heavy Armor + DLC Costumes''' includes both 2B's Heavy Armor costume as well as the 3 additional costumes that were released in the DLC. This is for players w/ the DLC.
 
 2. Use the bundled NieRAutomata-SteamID64-Editor to update the SteamID64 stored in the files to your own. For more information about that tool, see https://github.com/Idearum/NieRAutomata-SteamID64-Editor
 
